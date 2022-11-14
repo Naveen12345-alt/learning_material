@@ -24,7 +24,7 @@
 
 1. https://scrimba.com/articles/react-interview-questions/?utm_source=pocket_saves
 2. https://www.toptal.com/react/interview-questions?utm_source=pocket_saves
-
+3. https://www.youtube.com/watch?v=XBTJDpT2XaI
 
 ## Code Splitting Safely
 
