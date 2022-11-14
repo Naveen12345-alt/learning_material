@@ -15,3 +15,4 @@
 ## Leadership Principle
 
 1. https://leetcode.com/discuss/interview-question/437631/Amazon-Leadership-Principle-(Behavioral)-Questions?utm_source=pocket_saves
+2. https://www.amazon.jobs/en/principles?utm_source=pocket_saves
