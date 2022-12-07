@@ -14,6 +14,7 @@
 5. https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU
 6. https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
 7. https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ
+8. https://dev.to/pranambhat/list-of-algorithms-in-computer-programming-4loa
 
 
 ## Platforms
@@ -31,4 +32,9 @@
 5. https://frontendmasters.com/courses/data-structures-algorithms/
 6. https://frontendmasters.com/courses/practical-algorithms/
 7. https://pro.academind.com/p/javascript-algorithms-the-fundamentals
+
+## Youtube
+
+1. https://www.youtube.com/@NeetCode
+2. https://www.youtube.com/@takeUforward
 

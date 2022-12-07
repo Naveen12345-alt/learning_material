@@ -16,6 +16,10 @@
 
 1. https://www.udemy.com/course/nextjs-react-the-complete-guide/
 
+## Problems to Solve
+
+1. https://codepen.io/gabouh/pen/VwZOXwx?editors=0010
+
 ## Change Detection
 
 1. https://indepth.dev/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react/

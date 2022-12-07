@@ -24,3 +24,9 @@
 ## cheatsheets
 
 1. https://gist.github.com/vasanthk/485d1c25737e8e72759f
+
+## Youtube Videos
+
+1. https://github.com/engineerchirag/front-end-system-design
+2. https://www.youtube.com/@frontendjirachi5297
+3. https://www.youtube.com/@FrontEndEngineer

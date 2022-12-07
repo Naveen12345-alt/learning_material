@@ -10,6 +10,11 @@
 7. WebAIM - Introduction to Web Accessibility <https://webaim.org/intro/>
 8. Styling buttons, the right way <https://fvsch.com/styling-buttons>
 9. Applied Accessibility <https://www.freecodecamp.org/learn/responsive-web-design/#applied-accessibility>
+10. https://www.smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/
+
+## Mobile navigation
+
+1. https://www.smashingmagazine.com/2022/11/navigation-design-mobile-ux/
 
 ## Other
 

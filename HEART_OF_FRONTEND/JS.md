@@ -9,7 +9,15 @@
 5. https://justjavascript.com/
 6. https://www.udemy.com/course/the-complete-javascript-course/
 7. https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
+8. https://github.com/denysdovhan/wtfjs
 
+## 30 days; 30 problems
+
+1. https://github.com/wesbos/JavaScript30
+
+## ES6
+
+1. https://github.com/metagrover/ES6-for-humans
 
 ## Advanced
 
