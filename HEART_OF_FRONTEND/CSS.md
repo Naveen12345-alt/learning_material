@@ -35,6 +35,10 @@
 
 1. https://andy-bell.co.uk/a-modern-css-reset/
 
+## images
+
+1. https://web.dev/learn/images/
+
 ## Interview Questions
 
 1. https://github.com/Devinterview-io/css-interview-questions
