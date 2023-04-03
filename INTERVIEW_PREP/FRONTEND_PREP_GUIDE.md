@@ -17,6 +17,7 @@
 14. https://www.youtube.com/watch?v=qMkUziVZvzs&list=PL4ruoTJ8LTT96O258zzjRwdiNxzDoas-G&index=2
 15. https://www.youtube.com/c/FrontEndEngineer
 16. https://www.youtube.com/c/engineerchirag
+17. https://www.youtube.com/watch?v=BRFpWRJM4-c
 
 ## Recommeded to start with
 
