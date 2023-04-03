@@ -32,6 +32,7 @@
 5. https://frontendmasters.com/courses/data-structures-algorithms/
 6. https://frontendmasters.com/courses/practical-algorithms/
 7. https://pro.academind.com/p/javascript-algorithms-the-fundamentals
+8. https://leetcode.com/discuss/career/448285/list-of-questions-sorted-by-common-patterns
 
 ## Youtube
 
