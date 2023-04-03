@@ -60,10 +60,6 @@
 
 1. https://intspirit.medium.com/deep-deep-deep-into-promises-8dc72e86487a
 
-## This Keyword
-
-1. https://dev.to/this-is-learning/mastering-javascripts-this-keyword-using-bind-17m1
-
 ## Code Challenges
 
 1. https://github.com/sadanandpai/javascript-code-challenges
