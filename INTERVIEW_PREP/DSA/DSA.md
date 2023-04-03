@@ -33,6 +33,7 @@
 6. https://frontendmasters.com/courses/practical-algorithms/
 7. https://pro.academind.com/p/javascript-algorithms-the-fundamentals
 8. https://leetcode.com/discuss/career/448285/list-of-questions-sorted-by-common-patterns
+9. https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/
 
 ## Youtube
 
