@@ -17,8 +17,12 @@
 14. https://www.youtube.com/watch?v=qMkUziVZvzs&list=PL4ruoTJ8LTT96O258zzjRwdiNxzDoas-G&index=2
 15. https://www.youtube.com/c/FrontEndEngineer
 16. https://www.youtube.com/c/engineerchirag
-17. https://www.youtube.com/watch?v=BRFpWRJM4-c
+
 
 ## Recommeded to start with
 
 1. https://alphaayush.notion.site/alphaayush/2e13395deff94a428d45b3aa88dc7ee7?v=06b5c5617b8442bc878bd210257786ad&p=d2c7ca921eb846c68e00b9ed7450984a&pm=s
+
+
+## Youtube
+1. https://www.youtube.com/watch?v=BRFpWRJM4-c
