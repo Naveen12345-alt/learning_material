@@ -7,6 +7,7 @@
 ## Grid
 
 1. https://css-tricks.com/snippets/css/complete-guide-grid
+2. https://itnext.io/how-i-learned-css-grid-in-5-min-ec6439d8bf0
 
 ## Box Model
 
@@ -29,3 +30,12 @@
 1. https://developer.mozilla.org/en-US/docs/Web/CSS
 2. https://web.dev/learn/css/
 3. https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/
+
+## Modern CSS Reset
+
+1. https://andy-bell.co.uk/a-modern-css-reset/
+
+## Interview Questions
+
+1. https://github.com/Devinterview-io/css-interview-questions
+2. https://gist.github.com/marko-jankovic/22ad55fae467e72d0312

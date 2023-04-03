@@ -4,6 +4,7 @@
 2. https://epicreact.dev/
 3. https://beta.reactjs.org/
 4. https://reactjs.org/tutorial/tutorial.html
+5. https://alexsidorenko.com/articles
 
 ## Repos
 
@@ -28,6 +29,7 @@
 
 1. https://indepth.dev/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-to-walk-the-components-tree/
 2. https://indepth.dev/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react/
+3. https://github.com/acdlite/react-fiber-architecture
 
 ## More Under the Hood
 
@@ -63,6 +65,7 @@
 6. https://usehooks.com/
 7. https://react-hooks-cheatsheet.com/usestate
 8. https://antonioru.github.io/beautiful-react-hooks/
+9. https://dev.to/builderio/a-cure-for-react-usestate-hell-1ldi
 
 ## Awesome React list
 
@@ -83,6 +86,8 @@
 ## Coding Practice
 
 1. https://github.com/learning-zone/react-basics/blob/master/react-coding-practice.md
+2. https://nerdleveltech.com/how-to-be-better-in-react-code-reusability-part1/
+3. https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3
 
 ## Real World React Examples
 
@@ -97,3 +102,17 @@
 ## Code Splitting Safely
 
 1. https://mitchgavan.com/code-splitting-react-safely/?utm_source=pocket_saves
+
+## Virtual Scroll
+
+1. https://itnext.io/%EF%B8%8F-building-reactvirtual-scroll-in-5-min-alternative-to-pagination-and-infinite-scroll-515e0e329e76
+
+
+## performance
+
+1. https://itnext.io/%EF%B8%8F-top-7-tweaks-and-tricks-to-improve-react-performance-8957bab33266
+
+
+## Reduce Size of components
+
+1. https://levelup.gitconnected.com/top-3-react-tricks-pros-like-to-use-to-reduce-the-size-of-component-980900370505

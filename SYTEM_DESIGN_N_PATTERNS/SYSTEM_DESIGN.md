@@ -12,6 +12,7 @@
 4. https://dev.to/hellonehha/system-design-guide-for-front-end-developers-5fkl
 5. https://github.com/devkodeio/frontend-system-design
 6. https://frontendmastery.com/posts/frontend-system-design-interview-guide/
+7. https://itnext.io/system-design-concepts-that-helped-me-get-sr-frontend-offers-from-amazon-linkedin-9e100f3ce7d2
 
 ## Architect
 

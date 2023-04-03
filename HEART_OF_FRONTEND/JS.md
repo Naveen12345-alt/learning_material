@@ -54,19 +54,47 @@
 4. https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15
 5. https://addyosmani.com/resources/essentialjsdesignpatterns/book
 6. https://dev.to/lydiahallie
+7. https://itnext.io/javascript-memory-management-how-to-avoid-common-memory-leaks-and-improve-performance-c018dbbca954
+
+## promises
+
+1. https://intspirit.medium.com/deep-deep-deep-into-promises-8dc72e86487a
+
+## This Keyword
+
+1. https://dev.to/this-is-learning/mastering-javascripts-this-keyword-using-bind-17m1
 
 ## Code Challenges
 
 1. https://github.com/sadanandpai/javascript-code-challenges
+
+## Memory Management 
+
+1. https://itnext.io/javascript-memory-management-how-to-avoid-common-memory-leaks-and-improve-performance-c018dbbca954#9f04
 
 ## Best Practices
 
 1. https://refactoringjs.com/files/refactoring-javascript.pdf
 2. https://www.udemy.com/course/writing-clean-code/
 3. https://www.manning.com/books/the-art-of-unit-testing-third-edition
+4. https://blog.bitsrc.io/cleaner-code-with-event-delegation-in-javascript-bb6dd27be64d
 
 ## Functional JS
 
 1. https://mostly-adequate.gitbook.io/mostly-adequate-guide/
 2. https://aguru.gitbooks.io/functional-light-javascript/content/
 3. https://frontendmasters.com/courses/functional-javascript-v3/
+
+## OOPS
+
+1. https://sayhitosumit.medium.com/object-oriented-programming-oop-in-javascript-a264c4342d1c
+
+## Interview prep
+
+1. https://intspirit.medium.com/the-most-failed-javascript-interview-questions-849664e5bee
+2. https://medium.com/front-end-weekly/5-advanced-javascript-tricks-for-experienced-developers-5fe29e3e5e5e
+3. https://intspirit.medium.com/top-of-js-topics-mostly-failed-by-developers-53397f13eb78
+
+## Common Errors
+
+1. https://www.linkedin.com/pulse/10-common-javascript-errors-how-avoid-them-kazim-kayhan
