@@ -19,8 +19,8 @@
 16. https://www.youtube.com/c/engineerchirag
 17. https://itnext.io/frontend-interview-cheatsheet-that-helped-me-to-get-offer-on-amazon-and-linkedin-cba9584e33c7
 18. https://itnext.io/how-to-become-a-sr-frontend-engineer-in-amazon-without-leetcode-9b7ec604a12
-19. 4. https://techleadcuriosity.com/25-most-common-questions-asked-in-a-fronted-engineering-job-interview-b3f1337906ce
-
+19. https://techleadcuriosity.com/25-most-common-questions-asked-in-a-fronted-engineering-job-interview-b3f1337906ce
+20. https://www.greatfrontend.com/
 ## Recommeded to start with
 
 1. https://alphaayush.notion.site/alphaayush/2e13395deff94a428d45b3aa88dc7ee7?v=06b5c5617b8442bc878bd210257786ad&p=d2c7ca921eb846c68e00b9ed7450984a&pm=s

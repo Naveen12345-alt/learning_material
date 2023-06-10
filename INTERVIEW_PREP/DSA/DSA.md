@@ -5,6 +5,17 @@
 3. https://www.techinterviewhandbook.org/grind75
 4. https://seanprashad.com/leetcode-patterns/
 
+## patterns
+
+1. https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns
+2. https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/
+3. https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/
+4.  https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days
+5. https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
+6. https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/
+7. https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
+
+
 ## Algorithm
 
 1. https://www.youtube.com/c/TECHDOSE4u/playlists

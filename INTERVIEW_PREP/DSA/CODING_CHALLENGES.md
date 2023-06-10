@@ -6,3 +6,4 @@
 4. https://www.jschallenger.com/
 5. https://www.devtools.tech/?ref=frontend-learning-kit
 6. https://practice.learnersbucket.com/
+7. https://learnersbucket.com/javascript-sde-cheat-sheet/
